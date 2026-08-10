@@ -1,4 +1,3 @@
-
 <table>
   <tr>
     <td valign="top">
@@ -10,11 +9,9 @@
 
 u can call me lolop, dats my 2nd alias, im a bit scared to tell my main one. or u can call me by my skin name, i genuinely dont mind
 
-<blockquote>
-  ELL... VE...
-</blockquote>
-
-Yet...
+> ELL... VE...
+>
+> Yet... (ваш новый абзац без палочки)
 
     </td>
   </tr>
