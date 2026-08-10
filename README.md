@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td valign="top">
-      <img width="450" alt="transformers-animated-tfa-bumblebee" src="https://github.com" />
+      <img width="450" alt="transformers-animated-tfa" src="https://github.com" />
     </td>
     <td valign="top" style="padding-left: 20px;">
 
@@ -11,7 +11,7 @@ u can call me lolop, dats my 2nd alias, im a bit scared to tell my main one. or 
 
 > ELL... VE...
 >
-> Yet... (ваш новый абзац без палочки)
+> Yet...
 
     </td>
   </tr>
