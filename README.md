@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td valign="top">
-      <img width="300%" height="200" alt="transformers-animated-tfa-bumblebee" src="https://github.com/user-attachments/assets/e51d2a45-32fa-4175-abd9-e8bcbb277591" />
+      <img width="450"alt="transformers-animated-tfa-bumblebee" src="https://github.com/user-attachments/assets/e51d2a45-32fa-4175-abd9-e8bcbb277591" />
     </td>
     <td valign="top" style="padding-left: 20px;">
      :｡‘◟sup!! 
