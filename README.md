@@ -1,1 +1,1 @@
-<img width="400" height="200" alt="transformers-animated-tfa-bumblebee" src="https://github.com/user-attachments/assets/01bff50f-d506-43ed-b281-c53475e3e05f" />
+<img width="500" height="124" alt="transformers-animated-tfa-bumblebee" src="https://github.com/user-attachments/assets/d1e77f08-de9d-4be9-b653-c4be1b1af357" />
