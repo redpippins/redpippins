@@ -1,14 +1,18 @@
 <table>
-  <tr>
-    <td valign="top">
-      <img width="450" alt="transformers-animated-tfa-bumblebee" src="https://github.com/user-attachments/assets/0206c1ce-a5a8-4cda-a185-f31686ea617e" />
-    </td>
-<td valign="top" style="padding-left: 20px;">
-  :｡‘◟ sup!! <br>
-  u can call me lolop, dats my 2nd alias, im a bit scared to tell my main one. or u can call me by my skin name, i genuinely dont mind
+<tr>
+<td>
+
+<!-- Сюда вставьте код вашей гифки (например, <img src="..." />) -->
+<img src="ССЫЛКА_НА_ГИФКУ" width="400">
+
 </td>
+<td>
 
+:｡.｡ sup!!
+u can call me lolop, dats my 2nd alias, im a bit scared to tell my main one. or u can call me by my skin name, i genuinely dont mind
 
+</td>
+</tr>
+</table>
 
-
-оропропропрорпопрорпо
+> Текст цитаты, который теперь ТОЧНО будет в самом низу под всем блоком!
