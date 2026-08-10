@@ -9,12 +9,10 @@
   <p>u can call me lolop, dats my 2nd alias, im a bit scared to tell my main one. or u can call me by my skin name, i genuinely dont mind</p>
 </td>
 
-<div style="border-left: 3px solid #444d56; padding-left: 10px; color: #8b949e;">
+<blockquote>
   ELL... VE...
-</div>
-<br>
+</blockquote>
+
 Yet...
 
     </td>
-  </tr>
-</table>
