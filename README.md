@@ -8,12 +8,11 @@
 
 </td>
 <td>
-
-:｡.｡ sup!!
+:｡‘◟ sup!!
 u can call me lolop, dats my 2nd alias, im a bit scared to tell my main one. or u can call me by my skin name, i genuinely dont mind
 
 </td>
 </tr>
 </table>
 
-> Текст цитаты, который теперь ТОЧНО будет в самом низу под всем блоком!
+> meow
