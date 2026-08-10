@@ -3,7 +3,8 @@
 <td>
 
 <!-- Сюда вставьте код вашей гифки (например, <img src="..." />) -->
-<img src="ССЫЛКА_НА_ГИФКУ" width="400">
+<img width="450" alt="transformers-animated-tfa-bumblebee" src="https://github.com/user-attachments/assets/0206c1ce-a5a8-4cda-a185-f31686ea617e" />
+    </td>
 
 </td>
 <td>
