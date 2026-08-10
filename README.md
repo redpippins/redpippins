@@ -9,12 +9,12 @@
   <p>u can call me lolop, dats my 2nd alias, im a bit scared to tell my main one. or u can call me by my skin name, i genuinely dont mind</p>
 </td>
 
-<td valign="top" style="padding-left: 20px;">
+<div style="border-left: 3px solid #444d56; padding-left: 10px; color: #8b949e;">
+  ELL... VE...
+</div>
+<br>
+Yet...
 
-> ELL...
-> VE...
-
-Yet... (ваш новый абзац без палочки)
-
-</td>
-
+    </td>
+  </tr>
+</table>
