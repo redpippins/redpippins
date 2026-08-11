@@ -33,6 +33,6 @@
 > 
 </td> 
 <br>  
-                  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   вапап
+                  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   ◞‘｡ what i wanna say about pony town .  .  . ↴                                              IM NOT AGAINST INTERACTIONS AND TALKIN!!! ESPECIALLY IF U KNOW TFA OR IF U GOT A TFA SKIN I WILL BE SUPER GLAD. but even besides dat i will still be glad to interact or if u just sit with me, and pls dont be shy!!! dont be afraid!!!                                                                                                                                                                                           im a pretty chill and fun person, and also very friendly and kind, i will never reply to u in a negative / aggressive way unless deres a valid reason pls dont worry about dat!! if my messages seem negative/aggressive to u - sorry pls, i try really hard to pick words so i dont hurt anyone. request, do dis same back and everything will be fine!
 </tr>
 </table>
