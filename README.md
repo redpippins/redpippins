@@ -16,6 +16,8 @@
 
 <br>            ⠀⠀⠀⠀⠀⠀
 <img width="65%"  alt="a71d1d22593fa5867c00e8a53402d25f" src="https://github.com/user-attachments/assets/873b2a39-8e63-4c8a-b05c-70621bd2940b" />
+
+◞‘｡ usually i stay on the safe zone in ut/dr or the TF zone! i try to log in every day if i can ;p
 </div>
 <div>        
 <br>
