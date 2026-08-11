@@ -30,6 +30,6 @@
 > ◞‘｡ soo... um.. all the notes?? captions?? i wanted u to know are written below !! dis is important to me and for our communication!! interactions!!
 > 
 </td> 
-hhhhhhhhhhhhhhhhhhhhhhhh
+                     вапап
 </tr>
 </table>
