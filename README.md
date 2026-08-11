@@ -13,7 +13,7 @@
   u can call me lolop, dats my 2nd alias, im a bit scared to tell my main one. or u can call me by my skin name, i genuinely dont mind
     <div>
         <div>
-  <img width="60%" alt="This user thinks Earth is cool!" src="https://github.com/user-attachments/assets/86eb4ab0-9138-4d8f-9e98-7fcd24c7195c" />
+  <img width="65%" alt="This user thinks Earth is cool!" src="https://github.com/user-attachments/assets/86eb4ab0-9138-4d8f-9e98-7fcd24c7195c" />
 </div>
 
 </td>
