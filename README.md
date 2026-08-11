@@ -11,7 +11,10 @@
 <td valign="top" style="padding-left: 20px;">
   :｡‘◟ sup!! <br>
   u can call me lolop, dats my 2nd alias, im a bit scared to tell my main one. or u can call me by my skin name, i genuinely dont mind
-    <img width="23%"  alt="a71d1d22593fa5867c00e8a53402d25f" src="https://github.com/user-attachments/assets/86eb4ab0-9138-4d8f-9e98-7fcd24c7195c" />
+    <div>
+  <img width="23%" alt="This user thinks Earth is cool!" src="https://github.com/user-attachments/assets/86eb4ab0-9138-4d8f-9e98-7fcd24c7195c" />
+</div>
+
 </td>
 
 </td>
