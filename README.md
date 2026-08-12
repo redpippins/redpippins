@@ -3,7 +3,7 @@
 <td>
 
 <!-- Сюда вставьте код вашей гифки (например, <img src="..." />) -->
-<img width="450" alt="transformers-animated-tfa-bumblebee" src="https://github.com" />
+<img width="450" alt="transformers-animated-tfa-bumblebee" src="https://github.com/user-attachments/assets/0206c1ce-a5a8-4cda-a185-f31686ea617e" />
     </td>
 <td valign="top" style="padding-left: 20px;">
   :｡‘◟ sup!! <br>
@@ -12,7 +12,8 @@
         <div>
 
 <br>            ⠀⠀⠀⠀⠀⠀
-<img width="65%"  alt="a71d1d22593fa5867c00e8a53402d25f" src="https://github.com" />
+<img width="65%"  alt="a71d1d22593fa5867c00e8a53402d25f" src="https://github.com/user-attachments/assets/873b2a39-8e63-4c8a-b05c-70621bd2940b" />
+
 
 ◞‘｡ usually i stay on the safe zone in ut/dr or the TF zone! i try to log in every day if i can ;p
 </div>
@@ -27,7 +28,7 @@
 <!-- Блок Pony Town -->
 <p align="left">
   <!-- Юзербокс с цветком из вашего первого кода -->
-  <img src="https://github.com" width="35%" align="left" style="margin-right: 15px; margin-bottom: 10px;">
+  <img width="35%"  alt="0f5c9b2c29daafe1039d34e26e75379a" src="https://github.com/user-attachments/assets/b79948f2-b77f-42bf-a176-ef5f0acef788" /> 
   
   <!-- Заголовок блока -->
   <strong>♩╭ what i wanna say about pony town . . . ↴</strong>
