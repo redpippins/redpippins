@@ -3,7 +3,7 @@
 <td>
 
 <!-- Сюда вставьте код вашей гифки (например, <img src="..." />) -->
-<img width="450" alt="transformers-animated-tfa-bumblebee" src="https://github.com/user-attachments/assets/0206c1ce-a5a8-4cda-a185-f31686ea617e" />
+<img width="450" alt="transformers-animated-tfa-bumblebee" src="https://github.com" />
     </td>
 <td valign="top" style="padding-left: 20px;">
   :｡‘◟ sup!! <br>
@@ -12,7 +12,7 @@
         <div>
 
 <br>            ⠀⠀⠀⠀⠀⠀
-<img width="65%"  alt="a71d1d22593fa5867c00e8a53402d25f" src="https://github.com/user-attachments/assets/873b2a39-8e63-4c8a-b05c-70621bd2940b" />
+<img width="65%"  alt="a71d1d22593fa5867c00e8a53402d25f" src="https://github.com" />
 
 ◞‘｡ usually i stay on the safe zone in ut/dr or the TF zone! i try to log in every day if i can ;p
 </div>
@@ -26,7 +26,19 @@
 > ◞‘｡ soo... um.. all the notes?? captions?? i wanted u to know are written below !! dis is important to me and for our communication!! interactions!!
 
 <br>  
-                  ⠀⠀<img width="35%"  alt="0f5c9b2c29daafe1039d34e26e75379a" src="https://github.com/user-attachments/assets/b79948f2-b77f-42bf-a176-ef5f0acef788" /> ◞‘｡ what i wanna say about pony town .  .  . ↴
+
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr style="border: none;">
+    <!-- Левая колонка: картинка-юзербокс -->
+    <td valign="middle" style="border: none; padding-right: 10px;">
+      <img width="35%" alt="0f5c9b2c29daafe1039d34e26e75379a" src="https://github.com" />
+    </td>
+    <!-- Правая колонка: надпись вровень с юзербоксом -->
+    <td valign="middle" style="border: none;">
+      ◞‘｡ what i wanna say about pony town .  .  . ↴
+    </td>
+  </tr>
+</table>
 
 <blockquote>
   <p><strong>IM NOT AGAINST INTERACTIONS AND TALKIN!!!</strong> ESPECIALLY IF U KNOW TFA OR IF U GOT A TFA SKIN I WILL BE SUPER GLAD. but even besides dat i will still be glad to interact or if u just sit with me, and pls dont be shy!!! dont be afraid!!!</p>
