@@ -28,7 +28,7 @@
 <br>
 
 <!-- Секция с юзербоксом и прижатым текстом без лишних отступов -->
-<img src="https://github.com" width="220" align="left" alt="0f5c9b2c29daafe1039d34e26e75379a" style="margin-right: 10px;" /> ◞‘｡ what i wanna say about pony town . . . ↴
+<img width="35%"  alt="0f5c9b2c29daafe1039d34e26e75379a" src="https://github.com/user-attachments/assets/b79948f2-b77f-42bf-a176-ef5f0acef788" />  ◞‘｡ what i wanna say about pony town . . . ↴
 
 <br clear="left" />
 <br>
