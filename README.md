@@ -25,18 +25,13 @@
 
 > ◞‘｡ soo... um.. all the notes?? captions?? i wanted u to know are written below !! dis is important to me and for our communication!! interactions!!
 
-<br>  
+<br>
 
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr style="border: none;">
-    <td valign="middle" style="border: none; padding-right: 10px;">
-      ⠀<img width="35%"  alt="0f5c9b2c29daafe1039d34e26e75379a" src="https://github.com/user-attachments/assets/b79948f2-b77f-42bf-a176-ef5f0acef788" /> 
-    </td>
-    <td valign="middle" style="border: none;">
-      ◞‘｡ what i wanna say about pony town .  .  . ↴
-    </td>
-  </tr>
-</table>
+<!-- Секция с юзербоксом и прижатым текстом без лишних отступов -->
+<img src="https://github.com" width="220" align="left" alt="0f5c9b2c29daafe1039d34e26e75379a" style="margin-right: 10px;" /> ◞‘｡ what i wanna say about pony town . . . ↴
+
+<br clear="left" />
+<br>
 
 <blockquote>
   <p><strong>IM NOT AGAINST INTERACTIONS AND TALKIN!!!</strong> ESPECIALLY IF U KNOW TFA OR IF U GOT A TFA SKIN I WILL BE SUPER GLAD. but even besides dat i will still be glad to interact or if u just sit with me, and pls dont be shy!!! dont be afraid!!!</p>
