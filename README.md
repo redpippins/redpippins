@@ -20,27 +20,19 @@
 <br>
 
 </td>
-</tr>
-</table>
+<p align="left">
+  <!-- Юзербокс с вашей картинкой -->
+  <img src="https://github.com/user-attachments/assets/b79948f2-b77f-42bf-a176-ef5f0acef788" width="35%" align="left" style="margin-right: 15px; margin-bottom: 10px;">
+  
+  <!-- Заголовок блока -->
+  <strong>♩╭ what i wanna say about pony town . . . ↴</strong>
+  <br><br>
+  
+  <!-- Основной текст -->
+  IM NOT AGAINST INTERACTIONS AND TALKIN!!! ESPECIALLY IF U KNOW TFA OR IF U GOT A TFA SKIN I WILL BE SUPER GLAD. but even besides dat i will still be glad to interact or if u just sit with me, and pls dont be shy!!! dont be afraid!!!
+  <br><br>
+  im a pretty chill and fun person, and also very friendly and kind, i will never reply to u in a negative / aggressive way unless deres a valid reason pls dont worry about dat!! if my messages seem negative/aggressive to u - sorry pls, i try really hard to pick words so i dont hurt anyone. request, do dis same back and everything will be fine!
+</p>
 
-> ◞‘｡ soo... um.. all the notes?? captions?? i wanted u to know are written below !! dis is important to me and for our communication!! interactions!!
-
-<br>  
-
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr style="border: none;">
-    <!-- Левая колонка: картинка-юзербокс -->
-    <td valign="middle" style="border: none; padding-right: 10px;">
-     <img width="35%"  alt="0f5c9b2c29daafe1039d34e26e75379a" src="https://github.com/user-attachments/assets/b79948f2-b77f-42bf-a176-ef5f0acef788" /> 
-    </td>
-    <!-- Правая колонка: надпись вровень с юзербоксом -->
-    <td valign="middle" style="border: none;">
-      ◞‘｡ what i wanna say about pony town .  .  . ↴
-    </td>
-  </tr>
-</table>
-
-<blockquote>
-  <p><strong>IM NOT AGAINST INTERACTIONS AND TALKIN!!!</strong> ESPECIALLY IF U KNOW TFA OR IF U GOT A TFA SKIN I WILL BE SUPER GLAD. but even besides dat i will still be glad to interact or if u just sit with me, and pls dont be shy!!! dont be afraid!!!</p>
-  <p>im a pretty chill and fun person, and also very friendly and kind, i will never reply to u in a negative / aggressive way unless deres a valid reason pls dont worry about dat!! if my messages seem negative/aggressive to u - sorry pls, i try really hard to pick words so i dont hurt anyone. request, do dis same back and everything will be fine!</p>
-</blockquote>
+<!-- Очистка обтекания, чтобы следующий контент в README не съехал -->
+<br clear="left"/>
