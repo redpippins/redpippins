@@ -1,7 +1,6 @@
 <table>
 <tr>
 <td>
-
 <!-- Сюда вставьте код вашей гифки (например, <img src="..." />) -->
 <img width="450" alt="transformers-animated-tfa-bumblebee" src="https://github.com/user-attachments/assets/0206c1ce-a5a8-4cda-a185-f31686ea617e" />
     </td>
@@ -16,10 +15,15 @@
 
 ◞‘｡ usually i stay on the safe zone in ut/dr or the TF zone! i try to log in every day if i can ;p
 </div>
-<div>        
+</div>        
+<br>
+</td>
+</tr>
+</table>
+
 <br>
 
-</td>
+<!-- Блок Pony Town идет строго после таблицы, ничего не ломая -->
 <p align="left">
   <!-- Юзербокс с вашей картинкой -->
   <img src="https://github.com/user-attachments/assets/b79948f2-b77f-42bf-a176-ef5f0acef788" width="35%" align="left" style="margin-right: 15px; margin-bottom: 10px;">
