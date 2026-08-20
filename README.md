@@ -30,7 +30,7 @@
   <img width="35%" alt="0f5c9b2c29daafe1039d34e26e75379a" src="https://github.com/user-attachments/assets/b79948f2-b77f-42bf-a176-ef5f0acef788" align="left" style="margin-right: 15px; margin-bottom: 10px;" />
   
   <!-- Заголовок блока -->
-  <strong>◞‘｡ what i wanna say about pony town ↴</strong>
+  <strong>◞‘｡about pony town ↴</strong>
 </p>
 
 <!-- Очистка обтекания, чтобы текст ушел строго вниз под юзербокс -->
